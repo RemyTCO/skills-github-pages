@@ -1,4 +1,4 @@
 ---
-title: Welcome to my Remy's blog
+title: Welcome to Remy's blog
 ---
 
